@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Media Monitor</title>
+    <link rel="stylesheet" href="main.css">
+<title>Model</title>
+  </head>
+
+  <body class="light-theme"></body>
+  <body style="text-align:center;">
+          <nav>
+            <ul>
+              <li><a class='active' href="index.html">Home</a></li>
+              <li><a href="model.html">Model</a></li>
+              <li><a href="about.html">About Us</a></li>
+            </ul>
+          </nav>
+        </div>
+    <h1>Take A Loot At Our Working Model!</h1>
+    <h2>Predict Your Public Opinion Now!</h2>
+    <p>
+        <form action = "product" method = "post">
+            {% csrf_token %}
+        <label>Enter Product</label>
+        <input type ="text" name="product" placeholder="Enter product" required="required" />
+        <input type ="submit">
+    </form>
+    <p>Website : {{ site}} </p>
+    <p>Review : {{ model }}</p>
+    <script src="" async defer></script>
+    </p>
+  </body>
+</html>
