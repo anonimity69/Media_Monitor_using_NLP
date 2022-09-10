@@ -12,3 +12,5 @@ This is our backend interface where the Machine Learning model works and execute
 The creators of this project are:
 1. Adrita Chakrabarti [it2022/b09][ac.adrita2003@gmail.com]
 2. Shrayanendra Nath Mandal [cse2020/092] [shrayanmandal21@gmail.com]
+
+Video Link - [https://youtu.be/iNYPFXRjdDs]
