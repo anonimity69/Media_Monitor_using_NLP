@@ -9,6 +9,13 @@ We have integrated our model into a simple website using Django API, HTML, CSS a
 This is our Front-end interface where you need to input a product name or a brand name.
 ![image](https://user-images.githubusercontent.com/89735261/189471625-32318ef5-7c86-486c-ad1d-ace2c3d1dfa2.png)
 This is our backend interface where the Machine Learning model works and executes the sentiment analysis using **Natural Language Processing**
+**INSTRUCTIONS OF USE**\
+DOWNLOAD DJANGO BY RUNNING "pip install Django==4.1.1" in terminal. \
+TO USE THIS U NEED TO FORK THE CONTENT OR DOWNLOAD IT IN A FOLDER. \
+OPEN THE PROJECT FILE AND OPEN TERMINAL IN THAT FILE. \
+run the following code to start a server on local host: \
+python manage.py runserver\
+click on the link generated to view the project.\
 The creators of this project are:
 1. Adrita Chakrabarti [it2022/b09][ac.adrita2003@gmail.com]
 2. Shrayanendra Nath Mandal [cse2020/092] [shrayanmandal21@gmail.com]
