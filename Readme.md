@@ -1,4 +1,4 @@
-**Topic 1- Media Monitor**
+**Topic 1- Media Monitor**: \
 This is a **Machine Learning Based Model** that is used to detect the public sentiment by using **Natural Language Processing** about any product or brand we may find on the web.
 The software works by first calling a Google search API when we search an item in our website and it searches and collects data of first indexed page in google search engine.
 After the website is gathered from google, we input it into the Machine Learning Model.
